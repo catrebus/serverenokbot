@@ -1,0 +1,1 @@
+from .get_temp import get_cpu_temp
